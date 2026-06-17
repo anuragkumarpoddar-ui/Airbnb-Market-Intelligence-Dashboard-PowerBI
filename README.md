@@ -291,7 +291,7 @@ Airbnb-Market-Intelligence-Dashboard/
 
 ## Author
 
-### Anurag Poddar
+### Anurag Kumar Poddar
 
 Data Analyst | Bardaha Criholic Private Limited
 
