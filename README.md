@@ -1,4 +1,16 @@
-# Airbnb-Market-Intelligence-Dashboard-PowerBI
+# <p align="center"> Airbnb-Market-Intelligence-Dashboard-PowerBI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-FFB000?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Modeling-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-512BD4?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Storytelling-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+</p>
 Interactive Power BI dashboard analyzing Airbnb market performance, guest satisfaction, reviews, and host trust indicators across global cities using DAX, Power Query, and data storytelling.
 # Airbnb Market Intelligence Dashboard
 
