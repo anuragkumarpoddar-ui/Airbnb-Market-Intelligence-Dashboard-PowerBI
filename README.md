@@ -318,3 +318,9 @@ Data Analyst | Bardaha Criholic Private Limited
 ## Conclusion
 
 This project demonstrates the application of Business Intelligence techniques to analyze Airbnb's marketplace performance from multiple perspectives, including growth, market share, guest satisfaction, and trust indicators. Through interactive dashboards and actionable insights, the solution enables stakeholders to better understand customer behavior, host performance, and overall platform dynamics.
+
+
+
+## Acknowledgement
+
+Special thanks to **Mansi G.** for sharing valuable learning content that inspired the dashboard design and analysis approach. This project was independently recreated and implemented by me as part of my learning journey using Power BI.
