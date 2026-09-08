@@ -314,7 +314,6 @@ Data Analyst | Bardaha Criholic Private Limited
 - LinkedIn: https://www.linkedin.com/in/anurag-kumar-poddar-51239596/
 - GitHub: https://github.com/anuragkumarpoddar-ui
 
-
 ---
 
 ## Conclusion
